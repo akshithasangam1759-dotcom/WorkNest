@@ -2,7 +2,8 @@ WorkNest
 Project management platform where teams move faster, think clearer, and ship with confidence.
 
 Live Demo
-worknest12.netlify.app
+ https://worknest12.netlify.app
+
 
 Tech Stack
 Frontend: React, TypeScript, Vite, Tailwind CSS
